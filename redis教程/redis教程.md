@@ -8,5 +8,10 @@
 
 
 ### redis分布式锁
-##### [面试官问我，Redis分布式锁如何续期？懵了][3]
-[3]: https://www.cnblogs.com/yuxiang1/archive/2019/03/13/10527028.html
+##### [面试官问我，Redis分布式锁如何续期？懵了][4]
+[4]: https://www.cnblogs.com/yuxiang1/archive/2019/03/13/10527028.html
+
+
+### 整合springboot
+##### [SpringBoot通过RedisTemplate执行Lua脚本][5]
+[5]: https://www.cnblogs.com/loveLands/articles/11079516.html
