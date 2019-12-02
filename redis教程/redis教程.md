@@ -15,3 +15,7 @@
 ### 整合springboot
 ##### [SpringBoot通过RedisTemplate执行Lua脚本][5]
 [5]: https://www.cnblogs.com/loveLands/articles/11079516.html
+
+### scan用法
+##### [在RedisTemplate中使用scan代替keys指令[6]
+[6]: https://blog.csdn.net/oschina_40914891/article/details/100151227
