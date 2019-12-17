@@ -4,3 +4,7 @@
 ###### 元空间
 ##### [JAVA8元空间是什么？][2]
 [2]: https://blog.csdn.net/u010588262/article/details/81365547
+
+###### 永久带
+##### [Java方法区和永久代][2]
+[2]: https://blog.csdn.net/u010325193/article/details/86746447
