@@ -17,5 +17,7 @@
 [5]: https://www.cnblogs.com/loveLands/articles/11079516.html
 
 ### scan用法
-##### [在RedisTemplate中使用scan代替keys指令[6]
+##### [在RedisTemplate中使用scan代替keys指令][6]
+##### [redistemplate-游标scan使用注意事项][7]
 [6]: https://blog.csdn.net/oschina_40914891/article/details/100151227
+[7]: https://www.wandouip.com/t5i73668/
