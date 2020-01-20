@@ -21,3 +21,9 @@
 ##### [redistemplate-游标scan使用注意事项][7]
 [6]: https://blog.csdn.net/oschina_40914891/article/details/100151227
 [7]: https://www.wandouip.com/t5i73668/
+
+### Spring Boot缓存Cacheable
+##### [SpringCache自定义过期时间及自动刷新][8]
+##### [Spring Boot缓存实战 Redis 设置有效时间][9]
+[8]:https://www.cnblogs.com/top-housekeeper/p/11980973.html#autoid-2-0-0
+[9]:https://www.jianshu.com/p/275cb42080d9
