@@ -8,3 +8,10 @@
 ###### 永久带
 ##### [Java方法区和永久代][3]
 [3]: https://blog.csdn.net/u010325193/article/details/86746447
+
+
+###### 双亲委派
+##### [真正理解线程上下文类加载器（多案例分析）][4]
+##### [Tomcat类加载机制以及线程上下文类加载器][5]
+[4]: https://blog.csdn.net/yangcheng33/article/details/52631940
+[5]: https://blog.csdn.net/that_is_cool/article/details/81225810
