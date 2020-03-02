@@ -28,7 +28,7 @@
 ##### [SpringBoot 2.X @Cacheable，redis-cache 如何根据key设置缓存时间][10]
 [8]:https://www.cnblogs.com/top-housekeeper/p/11980973.html#autoid-2-0-0
 [9]:https://www.jianshu.com/p/275cb42080d9
-[10]https://segmentfault.com/q/1010000015203664
+[10]:https://segmentfault.com/q/1010000015203664
 
 ### redis持久化
 ##### [<Redis>AOF持久化][11]
