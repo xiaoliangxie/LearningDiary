@@ -29,3 +29,9 @@
 [8]:https://www.cnblogs.com/top-housekeeper/p/11980973.html#autoid-2-0-0
 [9]:https://www.jianshu.com/p/275cb42080d9
 [10]https://segmentfault.com/q/1010000015203664
+
+### redis持久化
+##### [<Redis>AOF持久化][11]
+##### [Redis RDB 持久化方式][12]
+[11]:https://www.jianshu.com/p/1e34fdc51e3b
+[12]:https://www.jianshu.com/p/c0e2c54b6519
