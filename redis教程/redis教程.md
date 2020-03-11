@@ -36,8 +36,10 @@
 ##### [redis系列--主从复制以及redis复制演进][13]
 ##### [redis主从复制下哨兵模式---选举原理][14]
 ##### [redis集群选举机制][15]
+##### [关于redis主从架构重新选举master带来的问题(脑裂)][16]
 [11]:https://www.jianshu.com/p/1e34fdc51e3b
 [12]:https://www.jianshu.com/p/c0e2c54b6519
 [13]:https://www.cnblogs.com/wdliu/p/9407179.html
 [14]:https://www.cnblogs.com/huangfuyuan/p/9880379.html
 [15]:https://blog.csdn.net/sz85850597/article/details/86751215
+[16]: https://www.cnblogs.com/notably/p/11162253.html
