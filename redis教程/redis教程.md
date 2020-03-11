@@ -37,9 +37,11 @@
 ##### [redis主从复制下哨兵模式---选举原理][14]
 ##### [redis集群选举机制][15]
 ##### [关于redis主从架构重新选举master带来的问题(脑裂)][16]
+##### [redis集群脑裂及解决方案][17]
 [11]:https://www.jianshu.com/p/1e34fdc51e3b
 [12]:https://www.jianshu.com/p/c0e2c54b6519
 [13]:https://www.cnblogs.com/wdliu/p/9407179.html
 [14]:https://www.cnblogs.com/huangfuyuan/p/9880379.html
 [15]:https://blog.csdn.net/sz85850597/article/details/86751215
 [16]: https://www.cnblogs.com/notably/p/11162253.html
+[17]: https://blog.csdn.net/LO_YUN/article/details/97131426
