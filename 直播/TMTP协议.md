@@ -8,7 +8,7 @@
 
 rtsp://admin:fuli1234@192.168.197.153:554/h264/ch1/main/av_stream
 
-ffmpeg -i rtsp://admin:fuli1234@192.168.197.153:554 -vcodec copy -acodec aac -ar 44100 -strict -2 -ac 1 -f flv -s 1280x720 -q 10 -f flv rtmp://118.89.237.217:1935/hls/test
+ffmpeg -i rtsp://admin:fuli1234@192.168.197.153:554 -vcodec copy -acodec aac -ar 44100 -strict -2 -ac 1 -f flv -s 1280x720 -tune zerolatency -preset ultrafast -q 10 -f flv rtmp://118.89.237.217:1935/hls/test
 
 ffmpeg -re -i rtsp://admin:fuli1234@192.168.197.153:554 -vcodec libx264 -vprofile baseline -acodec aac -ar 44100 -strict -2 -ac 1 -f flv -s 1280x720 -q 10 rtmp://118.89.237.217:1935/hls/test
 
