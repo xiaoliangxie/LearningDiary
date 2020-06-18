@@ -11,3 +11,5 @@
 
 ##### [Netty入门教程][4]
 [4]: https://www.jianshu.com/p/b9f3f6a16911
+##### [Essential Netty in Action 《Netty 实战(精髓)》][5]
+[5]: https://waylau.gitbooks.io/essential-netty-in-action/
