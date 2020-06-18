@@ -13,3 +13,6 @@
 [4]: https://www.jianshu.com/p/b9f3f6a16911
 ##### [Essential Netty in Action 《Netty 实战(精髓)》][5]
 [5]: https://waylau.gitbooks.io/essential-netty-in-action/
+
+##### [Linux IO模式及 select、poll、epoll详解][6]
+[6]: https://segmentfault.com/a/1190000003063859
