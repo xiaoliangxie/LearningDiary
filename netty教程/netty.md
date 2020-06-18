@@ -16,3 +16,6 @@
 
 ##### [Linux IO模式及 select、poll、epoll详解][6]
 [6]: https://segmentfault.com/a/1190000003063859
+
+##### [零拷贝][7]
+[7]: https://www.jianshu.com/p/275602182f39
