@@ -22,3 +22,6 @@
 
 ##### [【Netty】inBound和outBound事件的传播过程][8]
 [8]: https://www.jianshu.com/p/772f14930f83
+
+##### [Reactor模式详解][9]
+[9]: https://www.cnblogs.com/dirt2/p/5590320.html
