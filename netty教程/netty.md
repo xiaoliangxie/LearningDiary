@@ -19,3 +19,6 @@
 
 ##### [零拷贝][7]
 [7]: https://www.jianshu.com/p/275602182f39
+
+##### [【Netty】inBound和outBound事件的传播过程][8]
+[8]: https://www.jianshu.com/p/772f14930f83
