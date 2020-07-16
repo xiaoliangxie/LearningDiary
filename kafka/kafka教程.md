@@ -3,7 +3,9 @@
 ##### [RabbitMQ和kafka对于消费失败处理总结][2]
 ##### [zookeeper（四）：核心原理（Watcher、事件和状态）][3]
 ##### [阿里大牛实战归纳——Kafka架构原理][4]
+##### [再过半小时，你就能明白kafka的工作原理了][5]
 [1]: https://www.jianshu.com/p/d3e963ff8b70
 [2]: https://www.jianshu.com/p/ec5d9b966f2e
 [3]: https://www.cnblogs.com/shamo89/p/9787176.html
-[4]:https://www.songma.com/news/txtlist_i3441v.html
+[4]: https://www.songma.com/news/txtlist_i3441v.html
+[5]: https://www.cnblogs.com/sujing/p/10960832.html
