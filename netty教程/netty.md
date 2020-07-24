@@ -25,3 +25,6 @@
 
 ##### [Reactor模式详解][9]
 [9]: https://www.cnblogs.com/dirt2/p/5590320.html
+
+##### [epoll机制:epoll_create、epoll_ctl、epoll_wait、close][10]
+[10]: https://blog.csdn.net/yusiguyuan/article/details/15027821
